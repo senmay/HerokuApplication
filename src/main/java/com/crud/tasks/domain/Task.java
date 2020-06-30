@@ -12,7 +12,7 @@ import static javax.persistence.GenerationType.IDENTITY;
 @AllArgsConstructor
 @NoArgsConstructor
 @EqualsAndHashCode
-@Entity(name = "task")
+@Entity(name = "tasks")
 public class Task {
 
     @Id
